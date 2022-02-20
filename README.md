@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iredith
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on complete reactjs (reactjs/ react-native)
+- 💞️ I’m looking to currently explore on complete Back-End with Node.js
 - 📫 How to reach me : iredith0112@gmail.com
 
 <!---
